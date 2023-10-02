@@ -54,7 +54,7 @@ wasi-common = "^7.0.0"
 wasmtime = "^7.0.0"
 wasmtime-wasi = "^7.0.0"
 wasmtime-wasi-nn = "^7.0.0"
-webpki = "^0.21.0"
+webpki = "^0.22.2"
 wiggle = "^7.0.0"
 
 [dev-dependencies]
